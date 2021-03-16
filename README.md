@@ -1,11 +1,11 @@
 # Bus-Route-Tracker-Animation
 
-<img src= "busStops.png" width='300'/>
+<img src= "busStops.png" width='400'/>
 
-Eyes is an exercise in which a pair of eyes loaded in the browser screen follows your mouse cursor. 
+Eyes is an exercise where a marker moves along the bus stops from MIT campus to Harvard campus.
 ## How to Run
-Make sure eyes.html, eyes.css and PNG image are on your local computer. Next, you can drag index.html into your browser and you should see eyes in the middle of the browser screen.
+Make sure index.html, styles.css, and manipulation.js are on your local computer. Next, you can drag index.html into your browser and you should see a map from mapbox appear centered on a set of coordinates dispalying Harvard and MIT campuses in the browser screen.
 ## Future Improvements
-I would lke to code a mouse click event. In this function, a click of the mouse would cause the eyes to stop and "stare" at that point of click. I would then set a setInterval function that released the stare from the eyes and allowed them to once again follow the cursor. 
+I would like to use different coordinates in my town of Tacoma to track a local bus route I used to take to get to my university. I would use the move function to set markers that stayed on the map and didn't disappear until the user clicked a new button called back. This would erase all markers on the map and return the bus route animation from end back to the beginning. 
 ## License
-license from MIT. Full license information file found in Eyes repo.
+license from MIT. Full license information file found in Bus-Route-Tracker-Animation repo.
