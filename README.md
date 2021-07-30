@@ -1,4 +1,4 @@
-# Bus-Route-Tracker-Animation
+# Bus_Route_Tracker
 
 <img src= "busStops.png" width='400'/>
 
